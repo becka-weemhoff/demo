@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: Cloud Platform 2
+  description: Service for Cloud Platform
+  x-cortex-git:
+    github:
+      alias: default
+      repository: becka-weemhoff/demo
+  x-cortex-tag: cloud-platform-2
+  x-cortex-type: service
+  x-cortex-owners:
+  - name: b-team
+    type: GROUP
+    provider: CORTEX
